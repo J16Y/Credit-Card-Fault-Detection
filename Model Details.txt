@@ -1,0 +1,6 @@
+Model Used: RandomForestClassifier
+Data Split: 80% training / 20% testing
+Class Imbalance Technique: SMOTE
+Evaluation Metrics: Confusion Matrix
+                    ROC AUC Score
+                    Classification Report
